@@ -1,0 +1,15 @@
+array is list of element of same types.
+string array -> "apple", "banana"
+
+Contineous memory allocation 
+** Non-Contineous memory allocation in java - because store in Heap
+
+new -> allocatin / creation of memory
+int[] mark -> define array
+
+by refrence -> so change values => when share as function parameters
+
+
+Search
+Linear Search => O(n)
+Binary Search => O(logn)
